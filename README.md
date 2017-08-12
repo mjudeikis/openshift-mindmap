@@ -1,4 +1,4 @@
-# Highly distributed platform deployment
+# Enterprise OpenShift Deployment - What do you need to know?
 
 Full picture for editing can be found in [Lucidchart](https://www.lucidchart.com/invitations/accept/70f2025f-83ff-4157-88e6-c10e45a40dbb)
 
