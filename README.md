@@ -1,13 +1,8 @@
 # Enterprise OpenShift Deployment - What do you need to know?
 
-Full picture for editing can be found in [Lucidchart](https://www.lucidchart.com/invitations/accept/70f2025f-83ff-4157-88e6-c10e45a40dbb)
+Full picture for editing can be found in [Miro](https://miro.com/app/board/uXjVP1uZqrU=/?share_link_id=571713076415)
 
 #### Contribution
-You can leave your comments in a form of Issue or in Lucidchart comments.
+You can leave your comments in a form of Issues or Pull Requests.
 
-#### Blog post URL:
-<TBC>
-
-![alt text](https://github.com/mangirdaz/ocp-mindmap/raw/master/img/ocp-deployment.png "Logo Title Text 1")
- 
-
+[![OpenShift MindMap](https://github.com/mjudeikis/openshift-mindmap/raw/master/img/openshift-mindmap.jpg)](https://miro.com/app/board/uXjVP1uZqrU=/?share_link_id=571713076415)
